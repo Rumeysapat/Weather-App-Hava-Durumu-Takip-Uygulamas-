@@ -1,0 +1,16 @@
+# MacOS dosyaları
+.DS_Store
+
+# Node.js veya JS tabanlı paketler (eğer olursa)
+node_modules/
+
+# Log dosyaları
+*.log
+
+# VS Code ayarları
+.vscode/
+
+# IDE ve sistem geçici dosyaları
+*.swp
+*.tmp
+*.bak
